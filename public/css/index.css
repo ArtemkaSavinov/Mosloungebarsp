@@ -1,8 +1,13 @@
-body{
-	background-color: #1f211e;
+body {
+    background-color: #1f211e;
 }
 
 svg {
-	width: 100%;
-	height: auto;
+    width: 100%;
+    height: auto;
+}
+
+.versal {
+    width: 100%;
+    height: 100%;
 }
