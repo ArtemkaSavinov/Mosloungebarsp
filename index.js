@@ -16,6 +16,3 @@ app.get(`/`, function (req, res) {
     res.render(`index`);
 });
 
-app.get('/versal', function(req, res) {
-    res.render('versal')
-});
